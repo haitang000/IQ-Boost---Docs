@@ -6,13 +6,16 @@ hero:
   name: "IQ Boost"
   text: "脱离电子文盲文档"
   tagline: 一个致力于帮助电子文盲掌握相关电脑知识的文档
+  image:
+    src: /logo.png
+    alt: logo
   actions:
     - theme: brand
       text: 开始学习
       link: /start
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 查看文档 GitHub 仓库
+      link: https://github.com/haitang000/IQ-Boost---Docs
 
 features:
   - title: ❓ 为什么需要学习电脑相关知识
