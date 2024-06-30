@@ -13,10 +13,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '适用于完全没有计算机基础的小白',
+        text: '早教班',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '👋 欢迎使用本文档', link: '/start' },
+          { text: '💻 认识计算机', link: '/learn-computer' },
+          { text: '🔷 软件', link: '/software' }
         ]
       }
     ],
