@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a1 as n}from"./chunks/framework.C46D9NsM.js";const m=JSON.parse('{"title":"❓ 正确提问","description":"","frontmatter":{},"headers":[],"relativePath":"zhenquetiwen.md","filePath":"zhenquetiwen.md"}'),o={name:"zhenquetiwen.md"},r=n("",3),i=[r];function c(_,d,s,h,l,p){return t(),a("div",null,i)}const u=e(o,[["render",c]]);export{m as __pageData,u as default};

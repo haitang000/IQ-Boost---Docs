@@ -20,7 +20,8 @@ export default defineConfig({
         items: [
           { text: '👋 欢迎使用本文档', link: '/start' },
           { text: '💻 认识计算机', link: '/learn-computer' },
-          { text: '🔷 操作系统', link: '/system' }
+          { text: '🔷 操作系统', link: '/system' },
+          { text: '❓ 正确提问', link: '/zhenquetiwen' }
         ]
       }
     ],
