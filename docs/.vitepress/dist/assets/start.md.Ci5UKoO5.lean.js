@@ -1,0 +1,1 @@
+import{_ as t,c as a,o,a1 as r}from"./chunks/framework.CQAhCBne.js";const m=JSON.parse('{"title":"认识计算机","description":"","frontmatter":{},"headers":[],"relativePath":"start.md","filePath":"start.md"}'),s={name:"start.md"},n=r("",33),e=[n];function i(l,g,c,h,d,p){return o(),a("div",null,e)}const b=t(s,[["render",i]]);export{m as __pageData,b as default};
