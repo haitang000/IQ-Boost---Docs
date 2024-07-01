@@ -12,9 +12,6 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '关于', link: '/about' }
-    search: {
-          provider: 'local'
-      }
     ],
 
     sidebar: [
