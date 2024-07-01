@@ -9,12 +9,12 @@ export default defineConfig({
     ['link', { rel: 'icon', href: 'logo.png' }],],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-  search: {
-        provider: 'local'
-      }
     nav: [
       { text: '主页', link: '/' },
       { text: '关于', link: '/about' }
+    search: {
+          provider: 'local'
+      }
     ],
 
     sidebar: [
